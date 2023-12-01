@@ -1,3 +1,26 @@
+#    ------ BEGIN LICENSE ATTRIBUTION ------
+#    
+#    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+#    
+#    Release: https://github.com/jyates/fineo-calcite/releases/tag/branch-avatica-1.8-4c6d642
+#    Source File: bundler.rb
+#    
+#    Copyrights:
+#      copyright (c) nicolas gallagher and jonathan neal
+#      copyright (c) 2013 coby chapple
+#      copyright (c) 2013  dave gandy
+#      copyright 2014, google inc. all rights reserved
+#      copyright 2013 scott jehl
+#      copyright (c) 2008-2015 tom preston-werner
+#      copyright (c) 2001-2016, the hsql development group
+#    
+#    Licenses:
+#      Apache License 2.0
+#      SPDXId: Apache-2.0
+#    
+#    Auto-attribution by Threatrix, Inc.
+#    
+#    ------ END LICENSE ATTRIBUTION ------
 # Licensed to the Apache Software Foundation (ASF) under one or more
 # contributor license agreements.  See the NOTICE file distributed with
 # this work for additional information regarding copyright ownership.
