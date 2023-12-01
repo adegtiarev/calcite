@@ -1,4 +1,28 @@
 /*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: http://www.mycat.org.cn/mycat2-index.html
+*    Release: https://github.com/MyCATApache/Mycat2/releases/tag/v1.13-beta-2020-12-24
+*    Source File: StructKind.java
+*    
+*    Copyrights:
+*      copyright (c) <year>  <name of author>
+*      copyright (c) <2020>  <chen junwen>
+*      copyright (c) <2020>  <chenjunwen>
+*      copyright (c) 2007 free software foundation, inc. <https://fsf.org/>
+*      copyright treaty adopted on 20 december 1996, or
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
+/*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
  * this work for additional information regarding copyright ownership.
