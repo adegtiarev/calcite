@@ -1,4 +1,28 @@
 /*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Release: https://github.com/Abzhanov/piscine-go/releases/tag/calcite-1.26.0
+*    Source File: TransformationRule.java
+*    
+*    Copyrights:
+*      copyright (c) nicolas gallagher and jonathan neal
+*      copyright (c) 2014 alexander farkas (afarkas)
+*      copyright (c) 2013 coby chapple
+*      copyright 2008 google inc.  all rights reserved
+*      copyright (c) 2013 scott jehl
+*      copyright (c) 2008-present tom preston-werner and jekyll contributors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
+/*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
  * this work for additional information regarding copyright ownership.
